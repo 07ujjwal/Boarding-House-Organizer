@@ -1,6 +1,6 @@
 # Boarding House Organizer
 
-A MERN stack-based hostel management system with Redux and JWT authentication. Features include user management, room allocation, billing, maintenance tracking, and communication tools. Secure access control and encryption ensure data confidentiality, while future enhancements include a mobile app and IoT integration for enhanced functionality.
+A MERN stack-based Boarding House Organizer with Redux and JWT authentication. Features include user management, room allocation, billing, maintenance tracking, and communication tools. Secure access control and encryption ensure data confidentiality, while future enhancements include a mobile app and IoT integration for enhanced functionality.
 
 ## Installation
 
